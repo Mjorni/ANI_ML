@@ -1,3 +1,4 @@
+# Парсер сайта с динамической подгрузкой контента. для сбора статистике о просмотрах, рейтингах и т.д. https://shikimori.one/
 Для работы прогрыммы необходимо установить:
 pip install requests bs4 selenium csv matplotlib pandas seaborn
 
